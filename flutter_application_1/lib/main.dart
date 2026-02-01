@@ -80,8 +80,8 @@ void _toggleColor() {
 
   _mostrarSnackBar(
     _colorCambiado
-        ? 'Color del AppBar cambiado a verde'
-        : 'Color del AppBar cambiado a lila',
+        ? 'Color a cambiado a verde'
+        : 'Color a cambiado a lila',
   );
 }
 
