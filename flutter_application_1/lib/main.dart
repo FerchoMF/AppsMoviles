@@ -68,7 +68,7 @@ void _toggleTitulo() {
   });
 
   _mostrarSnackBar(
-    _tituloCambiado ? 'Pantalla' : 'Actividad',
+    _tituloCambiado ? 'Pantalla Principal' : 'Actividad Integradora 1',
   );
 }
 
@@ -80,8 +80,8 @@ void _toggleColor() {
 
   _mostrarSnackBar(
     _colorCambiado
-        ? 'Color a cambiado a verde'
-        : 'Color a cambiado a lila',
+        ? 'Color verde'
+        : 'Color lila',
   );
 }
 
